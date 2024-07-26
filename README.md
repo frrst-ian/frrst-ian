@@ -1,4 +1,4 @@
-# Hi there! 👋 
+# Hi! 👋 
 
 ## About Me 🎓
 I'm an undergraduate student at Bicol University, pursuing a degree in Computer Science. This GitHub space is my playground for practicing and creating projects that will shape my future career in tech.
