@@ -1,4 +1,4 @@
-# Hi! 👋
+# Hi!
 
 ## Technologies I Love ❤️
 
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-## My GitHub Stats 📊
+## GitHub Stats 
 
 ### Overview Stats
 
@@ -27,10 +27,10 @@
 
 ![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frrst-ian&theme=react-dark)
 
-### Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=frrst-ian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Detailed Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frrst-ian&theme=monokai" alt="Ian's GitHub Stats" />
+
+## Contact
+
+frrstxd@proton.me
