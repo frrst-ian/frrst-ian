@@ -1,36 +1,23 @@
-# Hi!
+Hi, I'm Ian
+=============================================================================================================================
 
-## Technologies I Love ❤️
+A PH based Front End  Web Developer
+-----------------------
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+* ✉️  You can contact me at [frrstxd@proton.me](mailto:frrstxd@proton.me)
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 </p>
+### Support Me
 
-## GitHub Stats 
+<ul style="list-style-type: none; margin: 0;">
 
-### Overview Stats
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ianforrest"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=frrst-ian&show_icons=true&theme=radical)
+</ul>
 
-### Top Languages
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frrst-ian&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frrst-ian&layout=compact&theme=radical)
-
-### Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frrst-ian&theme=radical)](https://git.io/streak-stats)
-
-### Contribution Graph
-
-![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frrst-ian&theme=react-dark)
-
-### Detailed Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frrst-ian&theme=monokai" alt="Ian's GitHub Stats" />
-
-## Contact
-
-frrstxd@proton.me
