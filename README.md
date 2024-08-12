@@ -14,11 +14,9 @@ A PH based Front End  Web Developer
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
+<ul style="list-style-type: none; margin: 0; padding: 0;">
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ianforrest"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
 </ul>
 
+### My Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frrst-ian&theme=tokyonight-duo)](https://git.io/streak-stats)
-
