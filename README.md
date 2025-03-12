@@ -14,4 +14,4 @@ A PH based Front End  Web Developer
 
                     
 ### My Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frrst-ian&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frrst-ian&theme=iceberg)](https://git.io/streak-stats)
