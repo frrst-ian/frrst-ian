@@ -6,8 +6,6 @@ A PH based FullStack  Web Developer
 
 * ✉️  You can contact me at [frrstxd@proton.me](mailto:frrstxd@proton.me)
 
-git@github.com:frrst-ian/frrst-ian.git
-
 ### Skills
 
 <p align="left">
