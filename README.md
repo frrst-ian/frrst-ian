@@ -14,4 +14,4 @@ A PH based FullStack  Web Developer
 
 ### My Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=frrst-ian&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=frrst-ian&theme=dracula&hide_border=true)](https://git.io/streak-stats)
