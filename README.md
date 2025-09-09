@@ -1,7 +1,7 @@
 Hi, I'm Ian 
 =============================================================================================================================
 
-A PH based FullStack  Web Developer
+A PH based Full Stack  Web Developer
 -----------------------
 
 * ✉️  You can contact me at [frrstxd@proton.me](mailto:frrstxd@proton.me)
