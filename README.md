@@ -22,6 +22,6 @@ I'm studying computer science and focused on web development. I'm finishing The 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/frrst-ian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=frrst-ian&stroke=3382ed&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=3382ed&currStreakLabel=14b8a6&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=frrst-ian&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-<a href="https://github.com/frrst-ian" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frrst-ian&langs_count=10&title_color=14b8a6&text_color=3382ed&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/frrst-ian" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frrst-ian&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
