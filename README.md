@@ -21,8 +21,10 @@ I'm studying computer science and focused on web development. Currently completi
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<div>
+  <a href="https://www.ko-fi.com/ianforrest">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150">
+  </a>
+</div>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ianforrest"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-</ul>
