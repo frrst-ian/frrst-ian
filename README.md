@@ -6,8 +6,9 @@ Full Stack Developer based in Philippines
 
 I'm studying computer science and focused on web development.
 
+* ⚙️  I'm currently building a [Photo Tagging App](https://github.com/frrst-ian/where-is-zoro)
 * ✉️  You can contact me at [frrstxd@proton.me](mailto:frrstxd@proton.me)
-* 🧠  I'm currently learning NodeJs
+* 📝  Checkout my latest blog [Ian Forrest](https://ianforrest.netlify.app/posts)
 
 ### Skills
 
