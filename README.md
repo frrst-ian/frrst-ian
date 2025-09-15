@@ -20,3 +20,5 @@ I'm studying computer science and focused on web development.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=frrst-ian&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
+<img src="https://www.readmecodegen.com/api/leetcode-stats/frrstian?theme=dark&reputation=false&hard=false&font=%27Fira+Code%27%2C+%27Courier+New%27%2C+monospace" width="495" />
+
